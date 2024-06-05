@@ -432,5 +432,3 @@ FILE* fecharArq(FILE *arq) {
     fclose(arq);
     return arq;
 }
-    return arq;
-}
